@@ -12,6 +12,9 @@ import Footer from "@/ui/components/footer";
 export const metadata: Metadata = {
   title: "Tejang",
   description: "Tejang bot",
+   icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default async function LocaleLayout({
