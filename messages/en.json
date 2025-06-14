@@ -1,0 +1,49 @@
+ { 
+ 
+"common": {
+    "welcome": "Welcome!",
+    "change_language": "Change language"
+  },
+ "ThemeSwitch": {
+    "switchToDark": "Switch to dark mode",
+    "switchToLight": "Switch to light mode",
+    "dark": "Dark",
+    "light": "Light",
+    "system": "System"
+  },
+
+    "LanguageSwitcher": {
+    "uzbek": "Uzbek",
+    "russian": "Russian",
+    "english": "English"
+  }
+,
+"navbar":{
+  "home": "Home",
+  "about": "About",
+  "contact": "Contact"
+},
+
+"hero": {
+    "title": "Saving starts with calculation.",
+    "description": "Our smart bot instantly calculates your electricity tariffs, saving you time and money.",
+    "cta": "Try the Bot Now"
+  },
+
+  "about": {
+    "title": "About Our Electricity Tariff Bot",
+    "description1": "Our bot is designed to simplify the process of calculating electricity costs based on your local tariffs.",
+    "description2": "With a user-friendly interface and accurate calculations, it helps you save time and make informed decisions about your energy usage."
+  },
+
+  "contact": {
+    "title": "Get in Touch with Our Bot",
+    "description": "Have questions or need help? Contact us or connect directly with our Telegram bot for instant tariff calculations.",
+    "namePlaceholder": "Your Name",
+    "emailPlaceholder": "Your Email",
+    "messagePlaceholder": "Your Message",
+    "submit": "Send Message",
+    "botCta": "Chat with @Tejang_bot"
+  }
+
+}

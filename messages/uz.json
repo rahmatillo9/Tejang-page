@@ -1,0 +1,49 @@
+{
+
+ "common": {
+    "welcome": "Xush kelibsiz!",
+    "change_language": "Tilni o‘zgartirish"
+  },
+
+        "ThemeSwitch": {
+    "switchToDark": "Qorong'i rejimga o'tish",
+    "switchToLight": "Yorug' rejimga o'tish",
+    "dark": "Qorong'i",
+    "light": "Yorug'",
+    "system": "Tizim"
+  },
+
+     "LanguageSwitcher": {
+    "uzbek": "Uzbek",
+    "russian": "Russian",
+    "english": "English"
+  },
+  "navbar": {
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "contact": "Aloqa"
+  },
+
+  "hero": {
+    "title": "Tejash birinchi navbatda hisoblashdan boshlanadi.",
+    "description": "Bizning aqlli botimiz sizning elektr energiya tariflaringizni darhol hisoblaydi, vaqt va pulni tejaydi.",
+    "cta": "Botni hozir sinab ko'ring"
+  },
+
+  "about": {
+    "title": "Elektr energiya to‘lovlaringiz ustidan nazorat o‘rnating!",
+    "description1": "Elektr energiya hisoblash botimiz yordamida siz sarf qilgan quvvat bo‘yicha to‘lovlaringizni oldindan hisoblab, byudjetingizni rejalashtirishingiz mumkin",
+    "description2": " Tariflar yangilanishi bilan avtomatik ravishda mos hisob-kitob, qulay va sodda foydalanish imkoniyati — bularning barchasi siz uchun!"
+  },
+
+  "contact": {
+    "title": "Bizning botimiz bilan bog'laning",
+    "description": "Savollaringiz bormi yoki yordam kerakmi? Biz bilan bog'laning yoki to'g'ridan-to'g'ri bizning Telegram botimizga ulaning, tariflarni tezda hisoblash uchun.",
+    "namePlaceholder": "Ismingiz",
+    "emailPlaceholder": "Emailingiz",
+    "messagePlaceholder": "Xabaringiz",
+    "submit": "Xabar yuborish",
+    "botCta": "Chat with @Tejang_bot"
+  }
+
+}
